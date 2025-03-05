@@ -8,8 +8,8 @@
 	<project path="packages/apps/SamsungServiceMode" name="LineageOS/android_packages_apps_SamsungServiceMode" revision="cm-12.1" remote="github" />
 	<!-- Common Project -->
 	<project path="device/samsung/rhea-common" name="bcm216xx-LOS/android_device_samsung_rhea-common" revision="cm-12.1" remote="github" />
-	<project path="vendor/samsung" name="bcm216xx-LOS/proprietary_vendor_samsung" revision="cm-12.1" remote="github" />
+	<project path="vendor/samsung" name="Hacker-Anirudh/proprietary_vendor_samsung" revision="cm-12.1" remote="github" />
 	<!-- Project corsica -->
-	<project path="device/samsung/corsica" name="bcm216xx-LOS/android_device_samsung_corsica" revision="cm-12.1" remote="github" />
-	<project path="kernel/samsung/rhea" name="bcm216xx-LOS/android_kernel_rhea" revision="cm-12.1" remote="github" />
+	<project path="device/samsung/zanin" name="Hacker-Anirudh/device_samsung_zanin" revision="cm-12.1" remote="github" />
+	<project path="kernel/samsung/rhea" name="Hacker-Anirudh/android_kernel_zanin" revision="cm-12.1" remote="github" />
 </manifest>
