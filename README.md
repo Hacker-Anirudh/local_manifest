@@ -14,7 +14,7 @@ To initialize LineageOS 12.1 Repo:
 
 To initialize Manifest:
 
-    curl --create-dirs -L -o .repo/local_manifests/local_manifest.xml -O -L https://raw.github.com/bcm216xx-LOS/local_manifest/cm-12.1/local_manifest.xml
+    curl --create-dirs -L -o .repo/local_manifests/local_manifest.xml -O -L https://raw.github.com/Hacker-Anirudh/local_manifest/cm-12.1/local_manifest.xml
 
 ---
 
