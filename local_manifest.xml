@@ -9,6 +9,7 @@
 	<!-- Common Project -->
 	<project path="device/samsung/rhea-common" name="bcm216xx-LOS/android_device_samsung_rhea-common" revision="cm-12.1" remote="github" />
 	<project path="vendor/samsung" name="Hacker-Anirudh/proprietary_vendor_samsung" revision="cm-12.1" remote="github" />
+	<project path="device/ldpi-common" name="androidarmv6/android_device_ldpi-common/" revision="cm-12.0" remote="github" />
 	<!-- Project corsica -->
 	<project path="device/samsung/zanin" name="Hacker-Anirudh/device_samsung_zanin" revision="cm-12.1" remote="github" />
 	<project path="kernel/samsung/rhea" name="Hacker-Anirudh/android_kernel_zanin" revision="cm-12.1" remote="github" />
